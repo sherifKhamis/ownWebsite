@@ -5,7 +5,7 @@
     <h2 class="text-gray-500 text-2xl">Meine Leidenschaft gilt Software und Daten.</h2>
 
     <!-- "Über mich" Sektion -->
-    <h3 class="text-xl font-semibold text-center text-gray-800 mt-10" id="Über mich">Über mich</h3>
+    <h3 class="text-xl font-semibold text-center text-gray-800 mt-10" id="ueber-mich">Über mich</h3>
 
     <div class="flex flex-col md:flex-row items-center justify-center gap-20 mt-6">
       <!-- Profilbild -->
@@ -26,7 +26,7 @@
     </div>
 
     <!-- Qualifikation Sektion -->
-    <h3 class="text-xl font-semibold text-center text-gray-800 mt-16" id="Qualifikation">Qualifikation</h3>
+    <h3 class="text-xl font-semibold text-center text-gray-800 mt-16" id="qualifikation">Qualifikation</h3>
 
     <div class="flex flex-col md:flex-row items-center justify-center gap-20 mt-6">
       <!-- Ausbildung als Fachinformatiker für Daten- und Prozessanalyse -->
@@ -43,18 +43,18 @@
       </div>
       <!-- Bild zu dieser Qualifikation -->
       <img 
-        src="/images/Data_Analysis.png" 
+        src="/images/DataAnalysis.jpg" 
         alt="Fachinformatiker für Daten- und Prozessanalyse" 
-        class="w-1/3 rounded-xl shadow-lg"
+        class="w-1/3 rounded-xl bg-transparent"
       />
     </div>
 
     <div class="flex flex-col md:flex-row items-center justify-center gap-20 mt-6">
       <!-- Bild zur akademischen Qualifikation -->
       <img 
-        src="/images/hat.png" 
+        src="/images/university-hat.jpg" 
         alt="Bachelorstudium der Informatik" 
-        class="w-1/3 rounded-xl shadow-lg"
+        class="w-1/3 rounded-xl"
       />
 
       <!-- Informationen zum Bachelorstudium -->
@@ -65,7 +65,7 @@
         </p>
         <ul class="list-disc list-outside text-lg text-gray-700 pl-5 mt-4">
           <li>Schwerpunkt: Software-Engineering</li>
-          <li>Abschlussnote: 2,4</li>
+          <li>Durchschnittsnote: 2,4</li>
         </ul>
       </div>
     </div> 
